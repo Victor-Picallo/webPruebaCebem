@@ -19,7 +19,7 @@ git add xxx (xxx = al archivo que te quieras) . (. = TODO)
 
 ## Guarda los cambios en el repositorio
 ```
-git commit -m "creo la pagina web inicial"
+git commit -m "pones el texto que refleje lo que has añadido"
 ```
 
 ## Conecta el repositorio local con el repositorio remoto
