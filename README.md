@@ -7,6 +7,7 @@ init
 
 ## Configurar git *correctamente*
 ```
+git remote add origin https://github.com/Victor-Picallo/webPruebaCebem.git
 git config --global user.mail "victor.p9646@gmail.com"
 git config --global user.name "Victor-Picallo"
 ```
@@ -29,4 +30,9 @@ git remote add origin https://github.com/Victor-Picallo/webPrueba.git
 ## Sube los cambios que tienes en locak a el repositorio remoto
 ```
 git push -u origin master
+```
+
+## Muestra las ramas del repositorio
+```
+git branch
 ```
